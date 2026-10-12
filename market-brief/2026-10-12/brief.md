@@ -1,59 +1,59 @@
-# Market Brief — 2026-10-12 22:48 EEST
+# Market Brief — 2026-10-12 23:08 EEST
 
 ## At a glance
-- US stocks were mixed. The Dow rose 0.35%. The S&P 500 fell 0.09% and the Nasdaq fell 0.44%. These are intraday numbers (the market was still open).
-- Europe closed higher. The FTSE 100 rose 0.99% and the DAX rose 0.76%. Banks and the start of earnings season (when companies report results) helped.
-- South Korea's KOSPI index fell 3.65%. Memory chip stocks dropped after a Chinese chipmaker said it had made progress on a new design. Micron and SK Hynix fell too. The KOSPI page showed an error banner, so treat this figure with care.
-- Oil rose 1.79% to 93.49. Gold fell 0.60% and Bitcoin fell 1.10%.
-- A Fed official (Hammack) said inflation is persistent and favors tighter policy. A US inflation report is due this week.
+- Europe had a good day. All four main indexes (groups of large companies' shares) rose. The FTSE 100 gained 0.99%.
+- US stocks were mixed. The Dow rose 0.38%, but the Nasdaq fell 0.44%.
+- South Korea's KOSPI fell 3.65%, the biggest move in the data. Memory-chip makers dropped after a Chinese rival reported progress on a new chip design.
+- Oil rose 1.61% to 93.33 in the US. A Fed official (the Fed is the US central bank) warned that inflation is persistent. The 10-year bond yield (the interest the US government pays to borrow for 10 years) is 5.24.
+- Earnings season (when companies report their profits) is starting. Investors are waiting for the results.
 
 ## Global snapshot
 | Region | Main index | Value | Chg % | Tone |
 |---|---|---|---|---|
-| US | S&P 500 | 7,804.70 | -0.09% | ► |
-| Europe | EURO STOXX 50 | 6,201.21 | +0.45% | ▲ |
-| Asia | Nikkei 225 (Oct 9 close) | 69,030.92 | -0.02% | ► |
-| Asia | KOSPI (date not shown) | 6,384.24 | -3.65% | ▼ |
+| US | S&P 500 | 7,807.24 | -0.06% | ► |
+| Europe | FTSE 100 | 10,656.28 | +0.99% | ▲ |
+| Asia | Nikkei 225 | 69,030.92 | -0.02% | ► |
+| Asia | KOSPI | 6,384.24 | -3.65% | ▼ |
 
 ## 🇺🇸 United States
-Stocks were mixed on Monday. The Dow gained, while the S&P 500, Nasdaq and Russell 2000 (an index of smaller companies) slipped. Chip weakness and tough talk from the Fed (the US central bank) weighed on growth stocks. The numbers are intraday snapshots, not closing prices.
+US stocks were mixed. The Dow rose 0.38% while the Nasdaq fell 0.44%, and the S&P 500 slipped 0.06%. Investors were cautious ahead of earnings season. The attribution of the moves is inferred from the headlines.
 
-- **Fed's Hammack warns inflation is persistent, favors more restrictive policy.** She says price pressures are sticky and tighter policy (higher interest rates) is warranted. [link](https://finance.yahoo.com/economy/policy/article/feds-hammack-warns-inflation-is-persistent-favors-more-restrictive-policy-185835420.html)
-- **A handful of tech stocks are masking an ugly S&P 500 problem.** The index looks fine because a few big tech names are rising. Most other stocks are weaker (this is called weak "breadth"). [link](https://finance.yahoo.com/markets/article/a-handful-of-tech-stocks-are-masking-an-ugly-sp-500-problem-133611321.html)
-- **Welcome back to earnings season: What to watch this week.** Big banks report, and an inflation report may shape the Fed's next move. [link](https://finance.yahoo.com/markets/article/welcome-back-to-earnings-season-what-to-watch-this-week-100000102.html)
+- **Dow gains, S&P 500 and Nasdaq slip as earnings season kicks off.** Blue chips (large, well-known companies) edged higher while tech shares dipped. [link](https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html)
+- **Fed's Hammack warns inflation is persistent.** The Cleveland Fed president favors more restrictive policy (higher interest rates). [link](https://finance.yahoo.com/economy/policy/article/feds-hammack-warns-inflation-is-persistent-favors-more-restrictive-policy-185835420.html)
+- **Gas prices near a record streak above $4 a gallon.** This fits with crude oil near $93. [link](https://finance.yahoo.com/markets/article/gas-prices-on-track-to-break-record-for-most-days-above-4-a-gallon-chart-of-the-day-172053108.html)
 
 ## 🇪🇺 Europe
-European stocks closed higher across the board. The FTSE 100 and DAX led, while the CAC 40 and EURO STOXX 50 rose more modestly. Banks and the start of earnings season seem to have lifted mood. Oil and geopolitics stayed in focus. The prices come from delayed quote pages that show no date, and the news items are undated. The link between them and today's move is only indicative.
+European shares closed higher across the board. Banks led the gains. Lower oil early in the day, on hopes of a Russia-Ukraine energy ceasefire, helped sentiment. Oil later pared its decline.
 
-- **European shares climb on bank gains, focus turns to earnings season.** Banks led the rise as oil eased. [link](https://finance.yahoo.com/markets/world-indices/articles/european-shares-rise-lower-oil-071913141.html)
-- **Oil gains on Middle East tensions, growing doubts of 'energy ceasefire' between Russia and Ukraine.** Renewed risk matters for European energy costs. [link](https://finance.yahoo.com/markets/article/oil-gains-on-middle-east-tensions-growing-doubts-of-energy-ceasefire-between-russia-and-ukraine-134049071.html)
-- **Big bank Q3 2026 earnings: how surging yields hit the economy.** Rising bond yields (the return on government debt) are weighing on the economy. [link](https://finance.yahoo.com/economy/articles/big-bank-q3-2026-earnings-114820534.html)
+- **European shares climb on bank gains.** Investors are focused on the start of earnings season. [link](https://finance.yahoo.com/markets/world-indices/articles/european-shares-rise-lower-oil-071913141.html)
+- **Oil gains on Middle East tensions and doubts about an energy ceasefire.** Crude reversed its earlier dip. [link](https://finance.yahoo.com/markets/article/oil-gains-on-middle-east-tensions-growing-doubts-of-energy-ceasefire-between-russia-and-ukraine-134049071.html)
+- **Big bank Q3 2026 earnings.** Rising bond yields are weighing on the wider economy. [link](https://finance.yahoo.com/economy/articles/big-bank-q3-2026-earnings-114820534.html)
 
 ## 🌏 Asia
-Asia was mixed. Hong Kong's Hang Seng rose 0.25%, the Nikkei was almost flat, and the Shanghai Composite fell 0.43%. The KOSPI dropped sharply, in line with the fall in memory chip stocks. The quote dates differ between pages, so the moves may not come from the same day. Only the Nikkei is confirmed (Oct 9 close).
+Asia was mixed to weak. KOSPI fell 3.65%, the Shanghai Composite fell 0.43%, the Hang Seng rose 0.25% and the Nikkei was almost flat. The KOSPI drop likely reflects the memory-chip selloff, but this link is an inference from the headlines. The Nikkei value is the Oct 9 close. Trading dates for the other three were not stated.
 
-- **Micron, SK Hynix stocks fall as Chinese memory maker announces progress in new design.** Both fell on news of a Chinese rival's progress. [link](https://finance.yahoo.com/markets/stocks/article/micron-sk-hynix-stocks-fall-as-chinese-memory-maker-announces-progress-in-new-design-123824149.html)
-- **Micron stock drops on China CXMT denser memory chip news.** This adds to worries about competition in memory chips. [link](https://finance.yahoo.com/markets/stocks/articles/micron-stock-drops-china-cxmt-173326080.html)
+- **Micron and SK Hynix fall after a Chinese memory maker reports design progress.** The news fed worries about competition. [link](https://finance.yahoo.com/markets/stocks/article/micron-sk-hynix-stocks-fall-as-chinese-memory-maker-announces-progress-in-new-design-123824149.html)
+- **Micron drops on news of a denser chip from China's CXMT.** This added pressure on the memory sector. [link](https://finance.yahoo.com/markets/stocks/articles/micron-stock-drops-china-cxmt-173326080.html)
 
 ## What to watch
-- **Inflation and interest rates.** Hammack's comments and the coming US inflation report could move markets. Bond yields are high (US 10-year at 5.24).
-- **Earnings season.** Big bank results are due. Banks are also tied to the yield story.
-- **Chips and oil.** Memory chip makers are under pressure from China. Oil is sensitive to Middle East and Russia-Ukraine news.
+- **Earnings season.** US and European news both point to the start of company results, especially big banks.
+- **Inflation and interest rates.** Persistent inflation, hawkish Fed comments (favoring higher rates) and high bond yields were all in the news.
+- **Oil and geopolitics.** Oil moved on Middle East tensions and on doubts about a Russia-Ukraine energy truce.
+- **Memory-chip competition.** The Chinese rival's news hit chip stocks in both the US and Asia.
 
 ## All prices
-
 ### United States
 | Asset | Symbol | Value | Chg | Chg % | Source |
 |---|---|---|---|---|---|
-| S&P 500 | ^GSPC | 7,804.70 | -6.84 | -0.09% | main page |
-| Dow 30 | ^DJI | 51,833.25 | +178.30 | +0.35% | main page |
-| Nasdaq | ^IXIC | 27,246.06 | -120.11 | -0.44% | main page |
-| Russell 2000 | ^RUT | 2,795.43 | -11.55 | -0.41% | main page |
-| 10-Yr Bond (yield) | ^TNX | 5.24 | -0.00 | -0.08% | main page |
-| VIX (fear gauge) | ^VIX | 15.28 | +0.44 | +2.96% | main page |
-| Gold (futures) | GC=F | 4,190.90 | -25.40 | -0.60% | main page |
-| Bitcoin USD | BTC-USD | 82,658.25 | -917.07 | -1.10% | main page |
-| Crude Oil Nov 26 (futures) | CL=F | 93.49 | +1.64 | +1.79% | main page |
+| S&P 500 | ^GSPC | 7,807.24 | -4.30 | -0.06% | Main page (confirmed on fallback) |
+| Dow 30 | ^DJI | 51,850.55 | +195.60 | +0.38% | Main page (confirmed on fallback) |
+| Nasdaq | ^IXIC | 27,245.90 | -120.27 | -0.44% | Main page (confirmed on fallback) |
+| Russell 2000 | ^RUT | 2,796.39 | -10.59 | -0.38% | Main page (fallback showed 2,796.43 / -10.55) |
+| 10-Yr Bond Yield | ^TNX | 5.24 | -0.00 | -0.08% | Main page |
+| VIX | ^VIX | 15.23 | +0.39 | +2.63% | Main page |
+| Gold (futures) | GC=F | 4,193.30 | -23.00 | -0.55% | Main page |
+| Crude Oil Nov 26 (futures) | CL=F | 93.33 | +1.48 | +1.61% | Main page |
+| Bitcoin USD | BTC-USD | 82,910.95 | -679.18 | -0.81% | Main page |
 
 ### Europe
 | Asset | Symbol | Value | Chg | Chg % | Source |
@@ -66,16 +66,17 @@ Asia was mixed. Hong Kong's Hang Seng rose 0.25%, the Nikkei was almost flat, an
 ### Asia
 | Asset | Symbol | Value | Chg | Chg % | Source |
 |---|---|---|---|---|---|
-| Nikkei 225 | ^N225 | 69,030.92 | -11.18 | -0.02% | Fallback page (close Oct 9, 15:45 JST) |
-| Hang Seng | ^HSI | 24,271.20 | +59.85 | +0.25% | Fallback page (at close, date not shown) |
-| SSE Composite | 000001.SS | 3,797.24 | -16.55 | -0.43% | Fallback page (at close, date not shown) |
-| KOSPI | ^KS11 | 6,384.24 | -241.69 | -3.65% | Fallback page (at close, date not shown; page showed an error banner) |
+| Nikkei 225 | ^N225 | 69,030.92 | -11.18 | -0.02% | Fallback page (close of Oct 9, 3:45 PM GMT+9) |
+| Hang Seng | ^HSI | 24,271.20 | +59.85 | +0.25% | Fallback page (close, 4:08 PM GMT+8) |
+| SSE Composite | 000001.SS | 3,797.24 | -16.55 | -0.43% | Fallback page (close, 3:00 PM GMT+8) |
+| KOSPI | ^KS11 | 6,384.24 | -241.69 | -3.65% | Fallback page (close, 8:05 PM GMT+9) |
 
 ## Sources and notes
-- News links are in each region section above. All come from Yahoo Finance.
-- US: prices are intraday snapshots from the main page. Other quote pages showed slightly different values.
-- Europe: all prices come from delayed fallback pages with no dates, so I could not confirm they are from 2026-10-12. News items are undated. Futures, commodities, currencies and crypto for Europe are not available.
-- Asia: dates are confirmed only for the Nikkei (Oct 9). The KOSPI page showed an error banner, so its data may be incomplete. Only 3 news items were found, and none covered Japan or Hong Kong directly. Futures, commodities, currencies and crypto for Asia are not available.
+- News links are in each region section above (all Yahoo Finance).
+- US: no currency quotes or equity index futures. The Russell 2000 differed slightly between pages (2,796.39 vs 2,796.43); the main page value is used.
+- Europe: all prices come from fallback quote pages. STOXX 600 and European futures not available. Quote dates are assumed to be the latest session.
+- Asia: futures, commodities, currencies and crypto not available. Only 2 news items found. Trading dates for the Hang Seng, SSE and KOSPI were not stated. The Nikkei is the Oct 9 close. Oct 12 may be a Japanese holiday, which is an assumption in the source.
+- Index values from different regions may not be from the same trading day.
 
 ---
 *For information only, not investment advice.*

@@ -1,24 +1,21 @@
-# Asia Markets — 2026-10-12 22:48 EEST
+# Asia Markets — 2026-10-12 23:08 EEST
 
 ## Prices (preview)
 | Asset | Symbol | Value | Chg | Chg % | Source |
 |---|---|---|---|---|---|
-| Nikkei 225 | ^N225 | 69,030.92 | -11.18 | -0.02% | Fallback page (close Oct 9, 15:45 JST) |
-| Hang Seng | ^HSI | 24,271.20 | +59.85 | +0.25% | Fallback page (at close, date not shown) |
-| SSE Composite | 000001.SS | 3,797.24 | -16.55 | -0.43% | Fallback page (at close, date not shown) |
-| KOSPI | ^KS11 | 6,384.24 | -241.69 | -3.65% | Fallback page (at close, date not shown; page showed an error banner) |
+| Nikkei 225 | ^N225 | 69,030.92 | -11.18 | -0.02% | Fallback page (close of Oct 9, 3:45 PM GMT+9) |
+| Hang Seng | ^HSI | 24,271.20 | +59.85 | +0.25% | Fallback page (close, 4:08 PM GMT+8) |
+| SSE Composite | 000001.SS | 3,797.24 | -16.55 | -0.43% | Fallback page (close, 3:00 PM GMT+8) |
+| KOSPI | ^KS11 | 6,384.24 | -241.69 | -3.65% | Fallback page (close, 8:05 PM GMT+9) |
 
 ## News
-1. **Micron, SK Hynix stocks fall as Chinese memory maker announces progress in new design** — SK Hynix and Micron both dropped after a Chinese memory chipmaker reported progress on a new chip design, which hit memory names. [link](https://finance.yahoo.com/markets/stocks/article/micron-sk-hynix-stocks-fall-as-chinese-memory-maker-announces-progress-in-new-design-123824149.html)
-2. **Micron stock drops on China CXMT denser memory chip news** — Micron shares slid on news of a denser memory chip from China's CXMT, which adds to competitive worries in memory. [link](https://finance.yahoo.com/markets/stocks/articles/micron-stock-drops-china-cxmt-173326080.html)
-3. **VOO Doesn't Hold SpaceX, Taiwan Semiconductor, Samsung Electronics, SK Hynix, or ASML.** — An opinion piece noting that major Asian AI and chip names are outside the S&P 500 and VOO. [link](https://finance.yahoo.com/markets/stocks/articles/voo-doesnt-hold-spacex-taiwan-205133562.html)
+1. **Micron, SK Hynix stocks fall as Chinese memory maker announces progress in new design** — Memory-chip shares slid after a Chinese producer reported progress on a new design, which fed worries about competition; this is likely a factor in Korea's sharp drop. [link](https://finance.yahoo.com/markets/stocks/article/micron-sk-hynix-stocks-fall-as-chinese-memory-maker-announces-progress-in-new-design-123824149.html)
+2. **Micron stock drops on China CXMT denser memory chip news** — Quartz reports that CXMT's denser memory chip announcement hit Micron's shares, adding to the pressure on the memory sector. [link](https://finance.yahoo.com/markets/stocks/articles/micron-stock-drops-china-cxmt-173326080.html)
 
 ## Summary
-Asian indices were mixed in the latest available closes. Hong Kong edged up 0.25%, the Nikkei was nearly flat, and the Shanghai Composite fell 0.43%. South Korea's KOSPI fell sharply, down 3.65%, which fits the selloff in memory chip stocks such as SK Hynix after news of Chinese progress in memory chip design. The quote dates are not consistent across pages, so the moves may not be from the same session.
+Asian markets were mixed to weak. South Korea's KOSPI dropped 3.65%, the biggest mover, while the Shanghai Composite fell 0.43%. The Hang Seng gained 0.25%, and the Nikkei was nearly flat (-0.02%). The KOSPI weakness likely reflects a selloff in memory-chip stocks tied to news of Chinese competitor CXMT's progress, though this link is my inference from the headlines.
 
 ## Notes
-- The main page's market bar only showed US data. The Asia tab values were not in the fetched HTML, so all four indices come from the fallback quote pages.
-- Quote dates are only confirmed for the Nikkei (Oct 9 close). The other three showed "at close" with no date.
-- The KOSPI page showed an "Oops, something went wrong" banner and zero Open/Volume, so its figures may be incomplete.
-- Futures, commodities, currencies and crypto for Asia: n/a (not available from the sources).
-- Only 3 news items were found. None covered Japan or Hong Kong directly, and a web search returned only old results.
+- The main page's bar only showed the US tab. Asia tab values were unavailable, so I used the four fallback quote pages. Futures, commodities, currencies and crypto for Asia: n/a.
+- The fallback pages did not state trading dates for HSI, SSE and KOSPI. The Nikkei value is explicitly the Oct 9 close; Oct 12, 2026 is likely a Japanese holiday (Sports Day), which is my assumption. The other three may not be Oct 12 closes either.
+- Only 2 relevant news items were found (target 3-5).
