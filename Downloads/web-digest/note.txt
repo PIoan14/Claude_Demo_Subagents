@@ -1,1 +1,0 @@
-This is a short note created by Claude Code. It was added to test pushing a file to the connected repository.
