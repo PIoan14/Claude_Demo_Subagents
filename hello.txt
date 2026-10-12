@@ -1,0 +1,2 @@
+Hello from Claude Code!
+This file was created on a separate branch and pushed to GitHub.
