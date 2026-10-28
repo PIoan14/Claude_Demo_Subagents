@@ -1,4 +1,4 @@
-# Europe Markets — 2026-10-29 01:05 EET
+# Europe Markets — 2026-10-29 01:15 EET
 
 ## Prices (preview)
 | Asset | Symbol | Value | Chg | Chg % | Source |
@@ -9,15 +9,16 @@
 | EURO STOXX 50 | ^STOXX50E | 6,167.81 | +3.12 | +0.05% | Fallback (quote page) |
 
 ## News
-1. **Fed votes in split decision to hold interest rates steady despite sticky inflation** — The US central bank kept rates unchanged with dissent, a decision that sets the tone for global markets including Europe. [link](https://finance.yahoo.com/economy/policy/article/fed-votes-in-split-decision-to-hold-interest-rates-steady-despite-sticky-inflation-180108960.html)
-2. **Stocks climb as Fed votes to hold rates steady, Big Tech earnings loom** — US equities rose after the Fed decision, with investors waiting for large technology earnings reports. [link](https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html)
-3. **Manufacturers get a reprieve as Trump delays machinery tariffs** — A postponement of US tariffs on robotics and machinery is relevant to European industrial exporters. [link](https://finance.yahoo.com/economy/policy/articles/trump-delays-robotics-machinery-tariffs-203713019.html)
+1. **Airbus bets big on a year-end delivery rush to hit its targets** — Airbus is counting on a heavy late-year push in aircraft deliveries to meet its goals, and its Paris-listed shares were down about 0.4%. [link](https://finance.yahoo.com/?fr=sycsrp_catchall)
+2. **Jeep, Ram parent Stellantis stock surges on reaffirmed outlook, cost cuts** — The automaker kept its outlook and announced cost cuts, which lifted its shares. [link](https://finance.yahoo.com/markets/stocks/article/jeep-ram-parent-stellantis-stock-surges-on-reaffirmed-outlook-cost-cuts-154939710.html)
+3. **Bond investors are thinking less about the Fed and more about AI, deficits** — Reuters analysis saying bond markets are focusing on AI-related spending and government deficits more than on Fed policy, which is relevant to global yields including Europe. [link](https://finance.yahoo.com/economy/policy/articles/analysis-bond-investors-thinking-less-100442377.html)
 
 ## Summary
-European indices ended mostly slightly higher at the latest close shown. The DAX led with +0.44%, the FTSE 100 and EURO STOXX 50 were up marginally, and the CAC 40 was flat. The backdrop was the Fed's split decision to hold rates and a delay to US machinery tariffs, which probably supported sentiment. These drivers are inferred from Yahoo's top headlines, not from a Europe-specific market report.
+European equities closed mostly flat to slightly higher. The DAX led with a gain of about 0.4%, and the FTSE 100 and EURO STOXX 50 were marginally up. The CAC 40 was unchanged. Company news, including Stellantis's reaffirmed outlook and Airbus's delivery plans, was the main stock-specific driver. I did not find a single clear macro catalyst.
 
 ## Notes
-- The main page's market bar showed only US quotes, so all prices come from the fallback quote pages. The Europe tab was not available.
-- The quote pages show no calendar date, only "at close" times, so I could not confirm they are for 2026-10-28. The EURO STOXX 50 page also showed an error banner and zeroed volume, so treat that value with caution.
-- No futures, commodity, currency or crypto values were available for Europe (n/a).
-- Only 3 news items were found. They come from the Yahoo front page and are not Europe-specific. A search for a Europe close report did not return anything for late October.
+- The main page's market bar showed only US data. The Europe tab did not load, so all four index prices come from the fallback quote pages.
+- The EURO STOXX 50 page showed open 0.00 and volume 0, so intraday figures may be unreliable.
+- Only 3 news items were found. Searches for European market news turned up nothing dated late October 2026.
+- The Airbus item has no direct article URL, so it links to the Yahoo Finance main page.
+- The bar's other European assets (futures, commodities, FX) were not available, so they are n/a.
