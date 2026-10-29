@@ -1,23 +1,21 @@
-# Asia Markets — 2026-10-29 12:21 EET
+# Asia Markets — 2026-10-29 12:41 EET
 
 ## Prices (preview)
 | Asset | Symbol | Value | Chg | Chg % | Source |
 |---|---|---|---|---|---|
 | Nikkei 225 | ^N225 | 64,659.47 | +705.28 | +1.10% | Fallback page |
 | Hang Seng | ^HSI | 22,958.65 | -136.18 | -0.59% | Fallback page |
-| Shanghai Composite | 000001.SS | 3,651.43 | -30.04 | -0.82% | Fallback page |
+| SSE Composite | 000001.SS | 3,651.43 | -30.04 | -0.82% | Fallback page |
 | KOSPI | ^KS11 | 5,937.66 | -74.78 | -1.24% | Fallback page |
 
 ## News
-1. **Hitachi shares slide as Q2 profit drop overshadows strong top-line earnings** — Hitachi's quarterly profit fell even though revenue was strong, which weighed on its shares. [link](https://finance.yahoo.com/quote/%5EN225/)
-2. **Tech gains lift Asian stock markets** — MT Newswires reported that technology stocks supported Asian equities in the prior session. [link](https://finance.yahoo.com/quote/%5EN225/)
-3. **Anthropic IPO filing and steady crude prices support Asian stocks** — MT Newswires linked the prior day's Asian gains to the Anthropic IPO filing and stable oil prices. [link](https://finance.yahoo.com/quote/%5EN225/)
+1. **Asian shares wobble as Alphabet earnings miss drags Wall St futures lower** — Asian equities slipped after Alphabet's disappointing results weighed on U.S. futures. [link](https://finance.yahoo.com/markets/stocks/articles/asian-shares-fall-alphabet-earnings-022830389.html)
+2. **World shares and U.S. futures are mixed after Google parent Alphabet's earnings disappoint** — Global markets lacked a clear direction following the same Alphabet report. [link](https://finance.yahoo.com/markets/stocks/articles/asian-shares-u-futures-mixed-050355681.html)
+3. **Tech stocks soar as SK hynix adds to rising AI confidence** — Korean chipmaker SK hynix helped fuel renewed optimism in AI-related tech shares. [link](https://finance.yahoo.com/technology/ai/articles/tech-stocks-soar-sk-hynix-053204359.html)
+4. **Cramer Says Micron Stock Does Whatever SK Hynix Does in Korea, and He Dislikes It** — Commentary on how closely Micron's moves track SK hynix's trading in Korea. [link](https://finance.yahoo.com/markets/stocks/articles/cramer-says-micron-stock-does-013938101.html)
 
 ## Summary
-Asia closed mixed on 29 Oct. Japan's Nikkei 225 rose 1.10% to 64,659.47, while Hong Kong (-0.59%), Shanghai (-0.82%) and South Korea's KOSPI (-1.24%) all fell. Yahoo's headlines point to tech strength earlier in the week as a support for the region, but the sources I read gave no clear reason for today's declines. Hitachi's earnings were a company-specific negative in Japan.
+Asian markets were mixed on the day. Japan's Nikkei 225 gained 1.10%, while Hong Kong's Hang Seng (-0.59%), the Shanghai Composite (-0.82%) and Korea's KOSPI (-1.24%) fell. Alphabet's disappointing earnings dented sentiment and pulled U.S. futures lower, and AI and chip-related names, notably SK hynix, remained a key theme.
 
 ## Notes
-- The main page's market bar had no Asia values. It showed only US futures, the 10-year yield, VIX, gold, bitcoin and crude oil, so all four index prices come from the fallback quote pages.
-- Futures, commodities, currencies and crypto for Asia were not available (n/a).
-- Only 3 news items were found, and all three come from the Nikkei quote page headlines. The links point to that page rather than to the individual articles. A web search returned only outdated results.
-- The news items cover the prior day or the Nikkei specifically, not all of Asia.
+The main page's market bar only showed U.S. futures and related instruments, with no Asia values, so all four indices came from the fallback quote pages. Quote pages did not show explicit dates. The KOSPI date was inferred as 2026-10-29 from page links. The Hang Seng page had an inconsistent previous close (23,041.30 versus the 23,094.83 implied by the change). The Hang Seng figures are as displayed. The news items come from the Yahoo Finance stock market news topic page, which had no Japan-specific or Hong Kong-specific headlines.
